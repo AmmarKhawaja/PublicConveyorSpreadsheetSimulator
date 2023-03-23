@@ -1,7 +1,7 @@
 ### Public Conveyor Spreadsheet Simulator
 ---
 
-A public repos of a program I wrote for **Impact Automation Inc.** in 2023 with the algorithm hidden in this version.
+A public repos of a program I wrote for **Impact Automation Inc.** with the algorithm hidden in this version.
 
 ---
 
@@ -20,3 +20,7 @@ For example it took me a few minutes to test how the conveyor would behave with 
 ---
 
 **Example in the ./scenarios folder.**
+
+---
+
+_2023 Winter-Spring Internship_
