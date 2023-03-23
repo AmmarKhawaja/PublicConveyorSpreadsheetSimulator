@@ -1,6 +1,6 @@
 # PublicConveyorSpreadsheetSimulator
 
-####A public repos of a program I wrote for **Impact Automation Inc.**, with the algorithm hidden in this version. (Reason for few commits)
+#### A public repos of a program I wrote for **Impact Automation Inc.**, with the algorithm hidden in this version. (Reason for few commits)
 
 #### This code has gone through many changes and alterations outside of the algorithm, in order to create a more real world simulation.
 
