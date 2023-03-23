@@ -1,4 +1,4 @@
-# PublicConveyorSpreadsheetSimulator
+### Public Conveyor Spreadsheet Simulator
 ---
 
 A public repos of a program I wrote for **Impact Automation Inc.**, with the algorithm hidden in this version.
