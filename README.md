@@ -1,6 +1,6 @@
 # PublicConveyorSpreadsheetSimulator
 
-A public repos of a program I wrote for Impact Automation, with the algorithm hidden in this version. (Reason for few commits)
+# A public repos of a program I wrote for Impact Automation, with the algorithm hidden in this version. (Reason for few commits)
 
 # This program simulates a conveyor by Impact Automation for Amazon using Python and Spreadsheets.
 
