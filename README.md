@@ -20,7 +20,3 @@ For example it took me a few minutes to test how the conveyor would behave with 
 ---
 
 **Example in the ./scenarios folder.**
-
----
-
-_2023 Winter-Spring Internship_
