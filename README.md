@@ -1,11 +1,13 @@
 # PublicConveyorSpreadsheetSimulator
 
-# A public repos of a program I wrote for Impact Automation, with the algorithm hidden in this version. (Reason for few commits)
+## A public repos of a program I wrote for **Impact Automation Inc.**, with the algorithm hidden in this version. (Reason for few commits)
 
-# This program simulates a conveyor by Impact Automation for Amazon using Python and Spreadsheets.
+### This code has gone through many changes and alterations outside of the algorithm, in order to create a more real world simulation.
 
-# The conveyor is very complicated, with multiple conveyors and each conveyor having its own speed, weight, and weight rating.
+### This program simulates a conveyor by Impact Automation for Amazon using Python and Spreadsheets.
 
-# The goal of this program is to simulate how the conveyor would work in the real world.
+### The conveyor is very complicated, with multiple conveyors and each conveyor having its own speed, weight, and weight rating.
 
-# Example in the ./scenarios folder.
+### The goal of this program is to simulate how the conveyor would work in the real world.
+
+### **Example in the ./scenarios folder.**
