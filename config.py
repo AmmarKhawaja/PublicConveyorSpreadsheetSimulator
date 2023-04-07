@@ -10,7 +10,7 @@ CONVEYOR_ADD = [.75,.50,.75,.50,.0,.25,.75,.75,
 # - probabilities if random input is selected [0, .25, .50, 75]
 PROBS = [1, 2,]
 # - number of inputs if random input is selected
-INPUT_NUM = 100
+INPUT_NUM = 10
 # - number of sections in each zone
 ZONE_LENGTH = 12
 # - number of zones
@@ -33,3 +33,6 @@ ZONE_RATING = []
 SPEED_RATING = []
 SPEED = []
 SUB = " "
+SLOW = 0.5
+NORM = 1
+FAST = 2
